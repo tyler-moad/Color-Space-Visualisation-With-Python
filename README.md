@@ -9,18 +9,20 @@
 <p align="center">
   <img 
     width="300"
-    height="300"
+    height="600"
     src="/images/Namibia3.png"
   >
 </p>
 
-<p img 
-  align="left"
-  width="200"
-  height="200"
-  src="/images/rgb_screeanshot.png "
->
+<p align="left">
+  <img 
+    width="300"
+    height="300"
+    src=/images/rgb_screeanshot.png"
+  >
 </p>
+
+
 
 <p img 
   align="center"
