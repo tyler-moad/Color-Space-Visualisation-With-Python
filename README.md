@@ -26,32 +26,3 @@
   height="100"
   src="/images/rgb_screeanshot.png"
 >
-
-
-
-<p align="left">
-  <img 
-    width="200"
-    height="200"
-    src=/images/rgb_screeanshot.png"
-  >
-</p>
-
-                                    
-<p align="center">
-  <img 
-    width="200"
-    height="200"
-    src=/images/rgb_screeanshot.png"
-  >
-</p>
-
-
-<p align="right">
-  <img 
-    width="200"
-    height="200"
-    src=/images/rgb_screeanshot.png"
-  >
-</p>
-
