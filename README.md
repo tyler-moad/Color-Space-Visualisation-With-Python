@@ -29,7 +29,7 @@
 >
 </p>
 <img 
-  align="left"
+  align="right"
   width="200"
   height="200"
   src="/images/hls_screeanshot.png"
