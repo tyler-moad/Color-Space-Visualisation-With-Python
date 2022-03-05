@@ -14,7 +14,7 @@
   >
 </p>
 
-<img 
+<p img 
   align="left"
   width="200"
   height="200"
@@ -22,7 +22,7 @@
 >
 </p>
 
-<img 
+<p img 
   align="center"
   width="200"
   height="200"
@@ -30,7 +30,7 @@
 >
 </p>
 
-<img 
+<p img 
   align="right"
   width="200"
   height="200"
