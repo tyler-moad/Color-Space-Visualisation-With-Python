@@ -9,7 +9,7 @@
 <p align="center">
   <img 
     width="300"
-    height="600"
+    height="375"
     src="/images/Namibia3.png"
   >
 </p>
@@ -20,9 +20,18 @@
   height="100"
   src="/images/rgb_screeanshot.png"
 />
+
+<p align="center">
+  <img 
+    width="100"
+    height="100"
+    src="/images/hls_screeanshot.png"
+  >
+</p>
+
 <img 
   align="right"
   width="100"
   height="100"
-  src="/images/rgb_screeanshot.png"
+  src="/images/hsv_screeanshot.png"
 />
