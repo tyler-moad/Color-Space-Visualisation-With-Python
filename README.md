@@ -8,8 +8,8 @@
 
 
 
-![image alt > width="250"](/images/rgb_screeanshot.png)
-![image alt <](/images/hsv_screeanshot.png)
-![image alt ><](/images/hls_screeanshot.png)
+![image alt > width="100"](/images/rgb_screeanshot.png)
+![image alt < width="100"](/images/hsv_screeanshot.png)
+![image alt >< width="100"](/images/hls_screeanshot.png)
 
 ![image alt ><](/images/Namibia3.png)
