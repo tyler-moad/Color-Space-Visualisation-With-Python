@@ -13,7 +13,7 @@
     src="/images/Namibia3.png"
   >
 </p>
-
+<p align="center">
 <img 
   align="left"
   width="100"
@@ -29,8 +29,9 @@
   />
 
 <img 
-  align="right"
+  align="left"
   width="100"
   height="100"
   src="/images/hsv_screeanshot.png"
 />
+</p>
