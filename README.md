@@ -5,7 +5,7 @@
 #### - Image pixels visualisation in the previously cited spaces. 
 
 ### I use Plotly to generate a fully interactive 3D graph that is easy to use and allows you to simply explore your picture's colors. Just the download the html files in the repo and try it on your browser.
-<img style="float: right;" src="/images/Namibia3.jpg">
+<img style="float: right;" src="/images/Namibia3.png">
 <img style="float: right;" src="/images/rgb_screeanshot.png">
 <img style="float: left;" src="/images/hsv_screeanshot.png">
 <img style="float: left;" src="/images/hls_screeanshot.png">
