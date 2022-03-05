@@ -6,4 +6,4 @@
 
 ### I use Plotly to generate a fully interactive 3D graph that is easy to use and allows you to simply explore your picture's colors. Just the download the html files in the repo and try it on your browser.
 
-<img style="float: right;" src="/images/rgb_screenshot.png">
+<img style="float: right;" src="/images/rgb_screeanshot.png">
