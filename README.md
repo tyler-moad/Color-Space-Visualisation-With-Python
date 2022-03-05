@@ -16,26 +16,27 @@
 
 <p align="left">
   <img 
-    width="300"
-    height="300"
+    width="200"
+    height="200"
+    src=/images/rgb_screeanshot.png"
+  >
+</p>
+
+                                    
+<p align="center">
+  <img 
+    width="200"
+    height="200"
     src=/images/rgb_screeanshot.png"
   >
 </p>
 
 
-
-<p img 
-  align="center"
-  width="200"
-  height="200"
-  src="/images/hsv_screeanshot.png"
->
+<p align="right">
+  <img 
+    width="200"
+    height="200"
+    src=/images/rgb_screeanshot.png"
+  >
 </p>
 
-<p img 
-  align="right"
-  width="200"
-  height="200"
-  src="/images/hls_screeanshot.png"
->
-</p>
