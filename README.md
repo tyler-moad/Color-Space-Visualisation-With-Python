@@ -8,7 +8,7 @@
 
 
 
-![image alt >](/images/rgb_screeanshot.png =100x100)
+![image alt > width="250"](/images/rgb_screeanshot.png)
 ![image alt <](/images/hsv_screeanshot.png)
 ![image alt ><](/images/hls_screeanshot.png)
 
