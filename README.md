@@ -15,10 +15,23 @@
 </p>
 <img 
   align="left"
-  width="100"
-  height="100"
+  width="200"
+  height="200"
   src="/images/rgb_screeanshot.png "
 >
 
-![image alt < width="100"](/images/hsv_screeanshot.png | width=100)
-![image alt >< width="100"](/images/hls_screeanshot.png | width=100)
+</p>
+<img 
+  align="center"
+  width="200"
+  height="200"
+  src="/images/hsv_screeanshot.png"
+>
+</p>
+<img 
+  align="left"
+  width="200"
+  height="200"
+  src="/images/hls_screeanshot.png"
+>
+
