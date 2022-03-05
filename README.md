@@ -19,10 +19,10 @@
   width="100"
   height="100"
   src="/images/rgb_screeanshot.png"
->
+/>
 <img 
   align="right"
   width="100"
   height="100"
   src="/images/rgb_screeanshot.png"
->
+/>
