@@ -13,14 +13,15 @@
     src="/images/Namibia3.png"
   >
 </p>
+
 <img 
   align="left"
   width="200"
   height="200"
   src="/images/rgb_screeanshot.png "
 >
-
 </p>
+
 <img 
   align="center"
   width="200"
@@ -28,10 +29,11 @@
   src="/images/hsv_screeanshot.png"
 >
 </p>
+
 <img 
   align="right"
   width="200"
   height="200"
   src="/images/hls_screeanshot.png"
 >
-
+</p>
