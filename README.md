@@ -21,13 +21,12 @@
   src="/images/rgb_screeanshot.png"
 />
 
-<p align="center">
-  <img 
+  <img
+    align = "left"
     width="100"
     height="100"
     src="/images/hls_screeanshot.png"
-  >
-</p>
+  />
 
 <img 
   align="right"
