@@ -16,22 +16,22 @@
 <p align="center">
 <img 
   align="left"
-  width="100"
-  height="100"
+  width="150"
+  height="150"
   src="/images/rgb_screeanshot.png"
 />
 
   <img
     align = "left"
-    width="100"
-    height="100"
+    width="150"
+    height="150"
     src="/images/hls_screeanshot.png"
   />
 
 <img 
   align="left"
-  width="100"
-  height="100"
+  width="150"
+  height="150"
   src="/images/hsv_screeanshot.png"
 />
 </p>
