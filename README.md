@@ -10,6 +10,6 @@
 
 ![image alt >](/images/rgb_screeanshot.png)
 ![image alt <](/images/hsv_screeanshot.png)
-![image alt ><](/images/hls_screeanshot.png")
+![image alt ><](/images/hls_screeanshot.png)
 
-![image alt ><](/images/Namibia3.png")
+![image alt ><](/images/Namibia3.png)
